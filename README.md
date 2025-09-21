@@ -33,6 +33,6 @@ preformatted text preserves white space.</pre>
 <li>Pick up Tim from school.</li>
 <li>Drop Jan off at soccer practice.</li>
 </ol>
-</body>
+
 </html>
 
