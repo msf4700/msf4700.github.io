@@ -1,6 +1,11 @@
 <html>
+  <title>My Page</title>
+        <style>
+            p {color: green}
+            a {color: red}
+        </style>
 <img src ="logo.png">
-<h1> Welcome to the site and check back for updates!</h1>
+<h1> Welcome to the site and <em> check </em>back for updates!</h1>
   <p> Please be patient while we update our site !
   It’s worth noting that,
 in HTML, we can have line breaks
